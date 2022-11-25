@@ -1,0 +1,16 @@
+{
+  "name": "assignment3",
+  "version": "1.0.0",
+  "description": "NodeMongo CRUD Operations",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "Saifullah",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.12.1"
+  }
+}
